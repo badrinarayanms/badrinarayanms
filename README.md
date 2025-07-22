@@ -4,7 +4,7 @@
 # 📫 How to reach me :
 - Mail: badrinarayan.moola@gmail.com
 - Linkedin: https://www.linkedin.com/in/badri-narayan-m-s-60bab42a2/
-- Resume: https://drive.google.com/file/d/12XdzA3GPZHQkR9KLP2bEhPVx2XQlka0O/view
+- Resume: [https://drive.google.com/file/d/12XdzA3GPZHQkR9KLP2bEhPVx2XQlka0O/view](https://drive.google.com/file/d/1-zxAaUTqHQ-kgkgI2cLk0v6IKlPwT_UB/view?usp=sharing)
 
 <!---
 badrinarayanms/badrinarayanms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
